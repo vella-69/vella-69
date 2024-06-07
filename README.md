@@ -2,7 +2,7 @@
 - 👀 I’m interested in myself
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on DSA Projects
-- 📫 How to reach me through github
+- 📫 How to reach me through: github
 - ⚡ Fun fact: velli
 
 <!---
